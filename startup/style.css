@@ -1,0 +1,176 @@
+*{
+    margin : 0;
+    font-family : Montserrat;
+    border : border-box;
+   
+}
+
+
+.navbar{
+    height : 86px;
+    background-color: #FCAF02;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    margin-left: 30px;
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+.up{
+    text-decoration-line: underline;
+}
+
+.spaceBetween{
+    margin-right: 30px;
+}
+.navlinks{
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.intro-section{
+    height : 530px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info{
+    margin-left: 30px;
+}
+
+.photo{
+    background-image: url("jeff 1.png");
+    width: 697px;
+    height: 482px;
+}
+
+.heading{
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+.para{
+    color: #FFF;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button{
+    width: 323px;
+    height: 66px;
+    background-color: #FCAF02;
+    border-radius: 500px;
+    margin-top: 30px;
+}
+
+.button-text{
+    color: black;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#con{
+    color: #FCAF02;
+    font-size: 64px;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-bottom: 35px;
+    
+}
+
+.contact-us{
+ 
+    height : 490px;
+    background-color: black;
+    color: white;
+}
+
+.fname{
+    width: 1400px;
+    height: 85px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: black;
+    border-radius: 100px;
+    border: 2px solid #FCAF02;
+    display: flex;
+    align-items: center;
+}
+
+.text-field{
+    margin-left : 40px;
+    height: 35px;
+    width: 65%;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+input:focus {
+    outline: none;
+}
+.inline{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    width: 1400px;
+}
+
+.inline-div{
+    display: flex;
+    align-items: center;
+    width: 620px;
+    height: 82px;
+    border-radius: 100px;
+    border: 2px solid #FCAF02;
+}
+
+.submit-bu{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background-color: black;
+}
+
+.table-section{
+    width: 1582px;
+    height: 755px;
+    background-color: black;
+    
+}
+
+.table{
+    width: 90%;
+    margin-left: 30px;
+    text-align: center;
+    color : white;
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+th{
+    border: 2px solid white;
+    
+}
+
+
